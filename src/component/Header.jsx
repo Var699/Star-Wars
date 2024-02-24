@@ -1,4 +1,4 @@
-import "../Style/Banner.css";
+import "../Style/Header.css";
 const Header = () => {
   return (
     <div className="banner">
